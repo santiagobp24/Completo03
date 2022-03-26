@@ -20,5 +20,7 @@ public class App
         
         System.out.println( 1+2 ); // 1 hotfix
         
+        System.out.println( 1+2 ); // 1 feature3
+        
     }
 }
