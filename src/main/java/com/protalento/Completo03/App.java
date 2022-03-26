@@ -16,6 +16,6 @@ public class App
         
         
         
-        System.out.println( 1+2 ); // 1 feature2 2 feature2
+        System.out.println( 1+2 ); // 1 feature2 2 feature2 3 feature2
     }
 }
